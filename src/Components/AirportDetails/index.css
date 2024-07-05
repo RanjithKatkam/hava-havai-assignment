@@ -1,0 +1,20 @@
+.breadcrumbs {
+    background-color: #fff;
+}
+
+#breadcurmbs-item2 {
+    color: #222222;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#breadcurmbs-item1 {
+    color: #353434;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.airport-heading {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    margin-left: 6px;
+}
